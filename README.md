@@ -14,7 +14,7 @@
 | Catriana  |  Maddie | Talia  | Lindsey |
 |---|---|---|---|
 | [Weekly Timetable](https://docs.google.com/presentation/d/1S6z9iQ-763BVqK8Pj4KIkmJeP9JxzuOd7goIl0FPoJ8)  | ???  | [Weekly Timetable](https://docs.google.com/presentation/d/1A1XfjDRwCtPOPidxRNrWQwHU8Sc-FiMdT8nZQGUDczs)  | ???  |
-| ???  | [Booking calendar](https://docs.google.com/presentation/d/1zeZiNXCozh8qx8564aYs7bInvhitjYZFR4Zl8TtfkRs)  | [Boking Calender](https://docs.google.com/presentation/d/15NVkQjkQjOsmiAi_gTyDZew9GJtREhMk7j61w0Xkl-k)  | ???  |
+| ???  | [Booking Calendar](https://docs.google.com/presentation/d/1zeZiNXCozh8qx8564aYs7bInvhitjYZFR4Zl8TtfkRs)  | [Boking Calender](https://docs.google.com/presentation/d/15NVkQjkQjOsmiAi_gTyDZew9GJtREhMk7j61w0Xkl-k)  | ???  |
 
 
 ## Class Blogs
