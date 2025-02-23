@@ -14,7 +14,7 @@
 | Catriana  |  Maddie | Talia  | Lindsey |
 |---|---|---|---|
 | [Weekly Timetable](https://docs.google.com/presentation/d/1S6z9iQ-763BVqK8Pj4KIkmJeP9JxzuOd7goIl0FPoJ8)  | ???  | [Weekly Timetable](https://docs.google.com/presentation/d/1A1XfjDRwCtPOPidxRNrWQwHU8Sc-FiMdT8nZQGUDczs)  | ???  |
-| ???  | [Booking Calendar](https://docs.google.com/presentation/d/1zeZiNXCozh8qx8564aYs7bInvhitjYZFR4Zl8TtfkRs)  | [Boking Calender](https://docs.google.com/presentation/d/15NVkQjkQjOsmiAi_gTyDZew9GJtREhMk7j61w0Xkl-k)  | ???  |
+| ???  | [Booking Calendar](https://docs.google.com/presentation/d/1zeZiNXCozh8qx8564aYs7bInvhitjYZFR4Zl8TtfkRs)  | [Booking Calender](https://docs.google.com/presentation/d/15NVkQjkQjOsmiAi_gTyDZew9GJtREhMk7j61w0Xkl-k)  | ???  |
 
 
 ## Class Blogs
@@ -25,6 +25,7 @@
 
 ## Newsletters
 
+* [Week 5](https://docs.google.com/document/d/10cl-D7Q9TG8cSF64H7QxUP4R-QmELwLk51cBS2ykilg): 24 Feb - 2 Mar
 * [Week 4](https://docs.google.com/document/d/1yCRW4XV21w6Yw5VRarIQQK3oPxxsK3nQGiRRZ7inEuQ): 17 Feb - 23 Feb
 * [Week 3](https://docs.google.com/document/d/1HX2YHqhX9-28ThUO31mjQOm1YbnXvmtxuIWySeQtA-4): 10 Feb - 16 Feb
 
