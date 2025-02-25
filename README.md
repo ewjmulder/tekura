@@ -9,6 +9,20 @@
 | [Magic Box/Lyric Writing](https://docs.google.com/document/d/19hlgxE0mJU8kHM5Tis2qvEmThnlXY1ARB1cMZ8IbwjQ)  | [Reading & Writing](https://docs.google.com/document/d/1D5uiSdYCs1MnghgjbvHsV9jkI0ldcsJV2IzPssp2rHw)  | [Reading & Writing](https://docs.google.com/document/d/12ePIi1T4bLy_izQgozItPCYTvXlGhcNWwaNINWle3xY)  | [Reading & Writing](https://docs.google.com/document/d/1aSfgspNeP-LDgKjaNFLwflSMcohDkNaOTY64SIBkJDA)  |
 
 
+## Weekly Calendar
+
+| Time | Monday  |  Tuesday | Wednesday  | Thursday  | Friday  |
+|---|---|---|---|---|---|
+| 08:30  | [Marijn: Toolbox Time](https://meet.google.com/txr-yspi-fqu)  |   |   |   |   |
+| 09:00  |   |   |   |   |   |
+| 09:30  |   |   |   |   |   |
+| 10:00  |   |   |   |   |   |
+| 10:30  |   |   |   |   |   |
+| 11:00  |   |   |   |   |   |
+| 11:30  |   |   |   |   |   |
+| 12:00  |   |   |   |   |   |
+
+
 ## Kaiako Calendars
 
 | Catriana  |  Maddie | Talia  | Lindsey |
