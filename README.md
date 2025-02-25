@@ -18,11 +18,11 @@
 | 09:30  | [Marijn: Toolbox Time](https://meet.google.com/txr-yspi-fqu)  | [Arend & Lieke: Writing Class](https://meet.google.com/mjr-rocj-ncd)  |   |   |   |
 | 10:00  |   | [Arend & Lieke: Writing Class](https://meet.google.com/mjr-rocj-ncd)  |   |   |   |
 | 10:30  |   |   |   |   |   |
-| 11:00  |   | *[Eva & Marijn: Math Class](https://meet.google.com/kkt-urhe-qpq)  |   |   |   |
+| 11:00  |   | (*)[Eva & Marijn: Math Class](https://meet.google.com/kkt-urhe-qpq)  |   |   |   |
 | 11:30  |   |   |   |   |   |
 | 12:00  |   |   |   |   |   |
 
-* = optional
+(*) = optional
 
 ## Kaiako Calendars
 
