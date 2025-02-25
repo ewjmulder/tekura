@@ -13,15 +13,16 @@
 
 | Time | Monday  |  Tuesday | Wednesday  | Thursday  | Friday  |
 |---|---|---|---|---|---|
-| 08:30  | [Marijn: Toolbox Time](https://meet.google.com/txr-yspi-fqu)  |   |   |   |   |
-| 09:00  |   |   |   |   |   |
-| 09:30  |   |   |   |   |   |
-| 10:00  |   |   |   |   |   |
+| 08:30  |   | [Lieke: Reading with Catriana](https://meet.google.com/zid-hacg-kvn)  | [Arend: Reading with Catriana](https://meet.google.com/jrs-pbiu-ejs)  |   |   |
+| 09:00  | [Marijn: Toolbox Time](https://meet.google.com/txr-yspi-fqu)  |   |   |   |   |
+| 09:30  | [Marijn: Toolbox Time](https://meet.google.com/txr-yspi-fqu)  | [Arend & Lieke: Writing Class](https://meet.google.com/mjr-rocj-ncd)  |   |   |   |
+| 10:00  |   | [Arend & Lieke: Writing Class](https://meet.google.com/mjr-rocj-ncd)  |   |   |   |
 | 10:30  |   |   |   |   |   |
-| 11:00  |   |   |   |   |   |
+| 11:00  |   | *[Eva & Marijn: Math Class](https://meet.google.com/kkt-urhe-qpq)  |   |   |   |
 | 11:30  |   |   |   |   |   |
 | 12:00  |   |   |   |   |   |
 
+* = optional
 
 ## Kaiako Calendars
 
