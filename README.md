@@ -6,7 +6,7 @@
 | Marijn  |  Eva | Arend  | Lieke  |
 |---|---|---|---|
 |  [Learning Log](https://docs.google.com/document/d/1480mfsDB1_jlZaKQk1oFVcwkjgEgaMGfCuq5_X1G0p8/edit) | [Learning Log](https://docs.google.com/document/d/1NfS7d0_I-0WdVAjjN6I9CDXHDvu_6rl6KN0_louFxHE/edit)  | [Learning Log](https://docs.google.com/document/d/1zJeCvlsJLC6-mY-vw0r1kkxiuN3IWdKMvrBxxa_Fcro/edit)  | [Learning Log](https://docs.google.com/document/d/1wy-pEH3aqF0X7WgQZFFjMON6NYfZn4LPzoJTFjaejV0/edit)  |
-| [Magic Box/Lyrics](https://docs.google.com/document/d/19hlgxE0mJU8kHM5Tis2qvEmThnlXY1ARB1cMZ8IbwjQ)  | [Magic Box/Lyrics](https://docs.google.com/document/d/11VYguxgQmYWH43uDLJTJPIQs4zM_aPr32hQMbmhT7I4) [Reading & Writing](https://docs.google.com/document/d/1D5uiSdYCs1MnghgjbvHsV9jkI0ldcsJV2IzPssp2rHw)  | [Reading & Writing](https://docs.google.com/document/d/12ePIi1T4bLy_izQgozItPCYTvXlGhcNWwaNINWle3xY)  | [Reading & Writing](https://docs.google.com/document/d/1aSfgspNeP-LDgKjaNFLwflSMcohDkNaOTY64SIBkJDA)  |
+| [Magic Box/Lyrics](https://docs.google.com/document/d/19hlgxE0mJU8kHM5Tis2qvEmThnlXY1ARB1cMZ8IbwjQ)  | [Magic Box/Lyrics](https://docs.google.com/document/d/11VYguxgQmYWH43uDLJTJPIQs4zM_aPr32hQMbmhT7I4)<br /> [Reading & Writing](https://docs.google.com/document/d/1D5uiSdYCs1MnghgjbvHsV9jkI0ldcsJV2IzPssp2rHw)  | [Reading & Writing](https://docs.google.com/document/d/12ePIi1T4bLy_izQgozItPCYTvXlGhcNWwaNINWle3xY)  | [Reading & Writing](https://docs.google.com/document/d/1aSfgspNeP-LDgKjaNFLwflSMcohDkNaOTY64SIBkJDA)  |
 
 
 ## Weekly Calendar
