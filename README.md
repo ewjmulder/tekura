@@ -23,6 +23,7 @@
 
 (*) = optional
 
+
 ## Kaiako Calendars
 
 | Catriana  |  Maddie | Talia  | Lindsey |
@@ -39,6 +40,7 @@
 
 ## Newsletters
 
+* [Week 6](https://docs.google.com/document/d/1hR_jJEWFvcMZcEOjF9t_uo6EZQywoYsdd8EG5Pqwpsc): 3 Mar - 10 Mar
 * [Week 5](https://docs.google.com/document/d/10cl-D7Q9TG8cSF64H7QxUP4R-QmELwLk51cBS2ykilg): 24 Feb - 2 Mar
 * [Week 4](https://docs.google.com/document/d/1yCRW4XV21w6Yw5VRarIQQK3oPxxsK3nQGiRRZ7inEuQ): 17 Feb - 23 Feb
 * [Week 3](https://docs.google.com/document/d/1HX2YHqhX9-28ThUO31mjQOm1YbnXvmtxuIWySeQtA-4): 10 Feb - 16 Feb
