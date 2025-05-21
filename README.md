@@ -9,7 +9,11 @@
 | [Magic Box/Lyrics](https://docs.google.com/document/d/19hlgxE0mJU8kHM5Tis2qvEmThnlXY1ARB1cMZ8IbwjQ)  | [Reading & Writing](https://docs.google.com/document/d/1D5uiSdYCs1MnghgjbvHsV9jkI0ldcsJV2IzPssp2rHw) <br /> ~~[Magic Box/Lyrics](https://docs.google.com/document/d/11VYguxgQmYWH43uDLJTJPIQs4zM_aPr32hQMbmhT7I4)~~ | [Reading & Writing](https://docs.google.com/document/d/12ePIi1T4bLy_izQgozItPCYTvXlGhcNWwaNINWle3xY)  | [Reading & Writing](https://docs.google.com/document/d/1aSfgspNeP-LDgKjaNFLwflSMcohDkNaOTY64SIBkJDA)  |
 
 
-## Weekly Calendar
+## Weekly Meeting - Australia
+
+Thursday 10:00 - 11:20 -> [Lieke, Arend and Eva with Catriana](https://meet.google.com/jrs-pbiu-ejs)
+
+## Weekly Calendar - New Zealand
 
 | Time | Monday  |  Tuesday | Wednesday  | Thursday  | Friday  |
 |---|---|---|---|---|---|
